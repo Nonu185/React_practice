@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+button{
+  background-color: aquamarine;
+  border-radius: 5px;
+  height: 70px;
+  width: 100px;
+  font-weight: 600;
+  font-size: medium;
+
+}
+button:active{
+  scale: 0.95;
+}
