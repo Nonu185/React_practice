@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.user-card{
+  color: white;
+  font-weight: 600;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+.all-cards{
+display: flex;
+flex-wrap: wrap;
+}
